@@ -1,0 +1,13 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/Advent of Code/.vs/Advent of Code
+/Advent of Code/Common/x64/Debug
+/Advent of Code/Day1/x64/Debug
+/Advent of Code/Day2/Debug
+/Advent of Code/Day2/x64/Debug
+/Advent of Code/inputs
+/Advent of Code/x64/Debug
+/Advent of Code/Debug
